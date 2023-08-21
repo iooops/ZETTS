@@ -1,0 +1,529 @@
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.768887056525735
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 6.6914293359374994
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.990895117187501
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.525573415541789
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.7937362596122375
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.136235732235271
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.187480560037365
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.273407286119675
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.910633114881401
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 3.936885607524671
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.174687109375
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.896104286473743
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.565139381893382
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 4.494598869346734
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.10619689477848
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.604330914848373
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.172886799708549
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.077042028035997
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.4404212890625
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 4.027602213541667
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.8530635097287735
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.460175199990644
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 4.077672832334844
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.558842532169117
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.392705515624999
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 4.040380610795455
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.113941490126534
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.808494861370584
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.758597829965445
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 5.998613598632812
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.888201925675676
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.67580432035006
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.5411582275390625
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 3.687119486177885
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.569749982158955
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.423948231403374
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.455366509106879
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.809188241607364
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.641334396421371
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.11 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 3.9419741736778846
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.6708056319962687
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.148593140530874
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.0473302208533655
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.7620420893480326
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.6143357421874995
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.13151579835429
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.725846650152439
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.8718374722782265
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.08538996752362
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.656603798076923
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.441772584096338
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.398800809619414
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.956015478515625
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.535411597782258
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.11 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.3569421875
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.824032506961634
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.807664009232955
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.214769039273649
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.9720337397309926
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.885431725543479
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 3.6637434501689192
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.847350913373162
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.627712428977273
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 3.9856760824022346
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.696302632211539
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.383087264404297
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.695514749500364
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.7845546042049634
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.399743735351562
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.163414606353591
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.84654924529733
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.951176767578125
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 4.296335281121926
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.583104142727018
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.5157588684475805
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 3.579279719705785
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.7341959992439513
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 5.9673623815524195
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.10 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 3.844420586840679
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.624620527722998
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.338987312104431
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.09 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 3.8406146199324325
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 3.643549846740431
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 4.35193517944336
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.38 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 6.371309949964887
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.080642792968749
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.714880893342392
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.44 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.737712026579484
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.495404727320996
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.353841567595108
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.43 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 7.734658785860655
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.994763740373223
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 8.374148760136471
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.36 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.647408178985253
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.023239701532161
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.22970996459961
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.41 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.118679132896057
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.169939339953271
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.239601476111779
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.27 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.290393160752118
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 4.964656983398438
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 5.970621176470588
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.41 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.433900823793317
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 6.006898182744566
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 5.821915711325968
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.49 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 6.220605029296874
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.713183599438714
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.4778334960937505
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.46 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.543619122596153
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.176205806107955
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.13543992250504
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.52 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.813728811291436
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.577768795072115
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 5.658447318209134
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.41 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 6.425069753196023
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.204663350022007
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.501841361177885
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.43 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.749768409242021
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.905044620807927
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.433176025390624
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.49 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.593792927528267
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.8592744480298915
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.000113469050482
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.39 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.236508056640624
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 4.690961694670377
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.092842792968749
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.57 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 5.807216847278226
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 5.674110677083333
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 6.041187710074492
+Done. Check out `out` folder for samples.
+Initializing Grad-TTS...
+Number of parameters: 20173352
+Initializing HiFi-GAN...
+Removing weight norm...
+Loaded the voice encoder model on cuda in 0.41 seconds.
+Synthesizing 0 text... torch.Size([1, 320, 61]) torch.Size([1, 1, 61])
+Grad-TTS RTF: 6.834383365384615
+Synthesizing 1 text... torch.Size([1, 320, 71]) torch.Size([1, 1, 71])
+Grad-TTS RTF: 4.976609596011513
+Synthesizing 2 text... torch.Size([1, 320, 57]) torch.Size([1, 1, 57])
+Grad-TTS RTF: 7.496299170722336
+Done. Check out `out` folder for samples.
+r for samples.
